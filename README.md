@@ -8,3 +8,9 @@ LUSH를 참고하여 퍼블리싱 한 헤어스타일 관련 사이트 입니다
 2022.06.07 ~ 2022.07.21
 
 ### ⚙️ 개발 환경
+- `Java 8`
+- `JDK 1.8.0`
+- **IDE** : STS 3.9
+- **Framework** : Springboot(2.x)
+- **Database** : Oracle DB(11xe)
+- **ORM** : Mybatis
