@@ -20,4 +20,8 @@ LUSH를 참고하여 퍼블리싱 한 헤어스타일 관련 사이트 입니다
 * DB값 검증
 * 계정찾기(smtp)
 * 로그인 시 쿠키(Cookie) 및 세션(Session) 생성
-### 회원가입 - <a href="">상세보기 - WIKI 이동</a>
+### 회원가입 - <a href="https://github.com/songjiho1/HairNada/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Login)">상세보기 - WIKI 이동</a>
+* 주소 API 연동 
+### 회원정보 수정 - <a href="https://github.com/songjiho1/HairNada/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member)">상세보기 - WIKI 이동</a>
+
+### 등급신청 - <a href="https://github.com/songjiho1/HairNada/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member)">상세보기 - WIKI 이동</a>
