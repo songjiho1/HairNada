@@ -35,3 +35,13 @@ LUSH를 참고하여 퍼블리싱 한 헤어스타일 관련 사이트 입니다
 * 프로필 사진 파일 처리
 ### 등급신청 - <a href="https://github.com/songjiho1/HairNada/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member)">상세보기 - WIKI 이동</a>
 * 자격증 사진 파일 처리
+### 작성글 - <a href="https://github.com/songjiho1/HairNada/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member2)">상세보기 - WIKI 이동</a>
+* 작성글 리스트
+* 작성글 좋아요 처리
+* 리스트 페이징 처리
+* 좋아요 & 댓글 수 노출
+### 좋아요 - <a href="https://github.com/songjiho1/HairNada/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member2)">상세보기 - WIKI 이동</a>
+* 좋아요 리스트
+* 카테고리별 리스트
+* 리스트 페이징 처리
+* 좋아요 처리
