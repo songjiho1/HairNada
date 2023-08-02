@@ -45,3 +45,12 @@ LUSH를 참고하여 퍼블리싱 한 헤어스타일 관련 사이트 입니다
 * 카테고리별 리스트
 * 리스트 페이징 처리
 * 좋아요 처리
+### 장바구니 - <a href="https://github.com/songjiho1/HairNada/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member3)">싱세보기 - WIKI 이동</a>
+* 장바구니 리스트
+* 체크박스로 구매할 제품 선택
+* 제품 수량 증가 감소
+### 구매내역 - <a href="https://github.com/songjiho1/HairNada/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member3)">싱세보기 - WIKI 이동</a>
+* 구매내역 리스트
+* 현재상태 실시간 변경
+* 기간별 구매내역 조회
+* 카테고리별 구매내역 조회
