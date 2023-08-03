@@ -54,3 +54,7 @@ LUSH를 참고하여 퍼블리싱 한 헤어스타일 관련 사이트 입니다
 * 현재상태 실시간 변경
 * 기간별 구매내역 조회
 * 카테고리별 구매내역 조회
+### 얼굴형 테스트 - <a href="https://github.com/songjiho1/HairNada/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(TestPage)">상세보기 - WIKI 이동</a>
+* 얼굴형 태스트
+* 경우의 수 계산
+* 얼굴형별 헤어스타일 추천
