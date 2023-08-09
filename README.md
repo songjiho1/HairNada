@@ -14,6 +14,10 @@ LUSH를 참고하여 퍼블리싱 한 헤어스타일 관련 사이트 입니다
 - Framework : MyBatis
 - Web : Apach Tomcat
 
+### ERD구성
+<img width="918" alt="KakaoTalk_20230801_123437043" src="https://github.com/songjiho1/HairNada/assets/126428486/2e40bf1d-5612-4ce0-ab01-937a42143638">
+
+
 ## ✋ 내가 담당한 페이지
 ### 로그인 - <a href="https://github.com/songjiho1/HairNada/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Login)" >상세보기 - WIKI 이동</a>
 * DB값 검증
