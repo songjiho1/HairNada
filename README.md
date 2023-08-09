@@ -9,7 +9,7 @@ LUSH를 참고하여 퍼블리싱 한 헤어스타일 관련 사이트 입니다
 
 ### ⚙️ 개발 환경
 - 'java 11'
-- IDE : Eclipse
+- IDE : IntelliJ
 - Database : Oracle DB(11xe)
 - Framework : MyBatis
 - Web : Apach Tomcat
